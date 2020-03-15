@@ -1,0 +1,10 @@
+Test 2:
+To run the attack on a cipher, run the following in terminal:
+>python Hanafi-Zalmout-Liu-decrypt.py
+
+Note: Python 2.7 is required.
+
+On run, it will prompt for the cipher:
+> Enter the ciphertext: 
+
+A sample cipher input is also provided in the output. Note that spaces are preserved as spaces i.e. they aren't encrypted. Symbols between cipher symbols are delimited with commas.
